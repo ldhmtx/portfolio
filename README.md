@@ -33,7 +33,7 @@ Hello! I am Luke Hill, welcome to my portfolio! I'm currently a student at Unive
 
 ## Resume
 ---
-({{ site.url }}/assets/resume.pdf)
+[Download PDF](/assets/resume.pdf)
 ---
 
 
