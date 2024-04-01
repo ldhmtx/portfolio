@@ -2,5 +2,6 @@ title: Luke Hill
 logo: /assets/img/headshot_circle.png
 #description: text below image
 show_downloads: true
-
+plugins:
+  - jekyll-pdf-embed
 theme: jekyll-theme-minimal
