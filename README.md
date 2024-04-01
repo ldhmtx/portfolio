@@ -31,3 +31,9 @@ Hello! I am Luke Hill, welcome to my portfolio! I'm currently a student at Unive
 - Managing across two storefronts, responsible for all customer service, inventory management, invoicing, and financial records
 - Collectively have sold over 500,000 total parts resulting over $150,000 in total sales since 2021, while maintaining an accurate inventory with over 19,000 unique items
 
+## Resume
+---
+pdf_file: "/assets/resume.pdf"
+---
+
+
