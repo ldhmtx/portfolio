@@ -2,6 +2,4 @@ title: Luke Hill
 logo: /assets/img1.png
 #description: text below image
 show_downloads: true
-plugins:
-  - jekyll-pdf-embed
 theme: jekyll-theme-minimal
