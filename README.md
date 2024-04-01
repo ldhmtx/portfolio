@@ -33,9 +33,7 @@ Hello! I am Luke Hill, welcome to my portfolio! I'm currently a student at Unive
 
 ## Resume
 ---
-pdf_file: "/assets/resume.pdf"
+<a href="/assets/resume.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 ---
-
-{% pdf "/assets/resume.pdf" no_link %}
 
 
