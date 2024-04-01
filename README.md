@@ -36,4 +36,6 @@ Hello! I am Luke Hill, welcome to my portfolio! I'm currently a student at Unive
 pdf_file: "/assets/resume.pdf"
 ---
 
+{% pdf "/assets/resume.pdf" no_link %}
+
 
