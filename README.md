@@ -42,7 +42,7 @@ Hello! I'm currently a student at University of Missouri-Kansas City, pursuing a
 
 ## Resume
 ---
-[Download LukeHillResume](/assets/LukeHillResume.pdf)
+[Download LukeHillResume](/assets/Luke-Hill-Resume.pdf)
 ---
 
 
